@@ -1,0 +1,4 @@
+.vscode
+target
+.dotty-ide.json
+.dotty-ide-artifact
